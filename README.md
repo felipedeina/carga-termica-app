@@ -1,0 +1,1 @@
+# carga-termica-app
